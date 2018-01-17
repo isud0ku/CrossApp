@@ -1,0 +1,12 @@
+Main site module
+  -- Application Database
+    -- Tables
+      -- Projects
+      -- Products
+      -- ...
+
+  -- Application Graphics
+    -- Main window
+    -- Read CSV
+    -- Lib JS for graphics
+    -- Graph analysis
